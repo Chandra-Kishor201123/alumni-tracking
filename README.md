@@ -1,5 +1,5 @@
 # Alumni Tracker
-![alumni-track](https://socialify.git.ci/aashish649/alumni-track/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Overlapping%20Hexagons&theme=Light)
+![alumni-track](https://socialify.git.ci/Chandra-Kishor201123/alumni-tracking/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
 Alumni Tracker is a  web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It serves  a platform for alumni to connect, share updates, and engage with the admin seamlessly. The application is divided into user and admin interfaces, each equipped with distinct features and functionalities.
 
@@ -7,7 +7,7 @@ Alumni Tracker is a  web application developed using the MERN (MongoDB, Express.
 ## Deployment
 This website is hosted on Vercel. You can access the deployed application using the following link:
 
-[Alumni Tracker](https://alumni-track.vercel.app/)
+[Alumni Tracker](https://alumni-tracking-chandra.vercel.app)
 
  
 ## Features
